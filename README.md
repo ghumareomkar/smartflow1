@@ -273,5 +273,5 @@ This project is for educational and demonstration purposes.
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/ghumareomkar">ghumareomkar</a>
+  Built with ❤️ by <a href="https://github.com/ghumareomkar">Semicolon squad</a>
 </p>
