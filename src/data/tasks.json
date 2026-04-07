@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    { "id": 1, "name": "CNC Milling - Part A12", "priority": "high", "deadline": "2026-04-07T14:00:00", "skill": "CNC", "status": "in-progress", "assignedTo": 1, "progress": 72, "estimatedHours": 4 },
+    { "id": 2, "name": "Quality Inspection - Batch 7", "priority": "high", "deadline": "2026-04-07T12:00:00", "skill": "Quality", "status": "delayed", "assignedTo": 3, "progress": 45, "estimatedHours": 3 },
+    { "id": 3, "name": "Welding Assembly - Frame C", "priority": "medium", "deadline": "2026-04-08T09:00:00", "skill": "Welding", "status": "completed", "assignedTo": 2, "progress": 100, "estimatedHours": 5 },
+    { "id": 4, "name": "Laser Cutting - Sheet Metal", "priority": "high", "deadline": "2026-04-07T16:00:00", "skill": "Laser", "status": "in-progress", "assignedTo": 5, "progress": 60, "estimatedHours": 3 },
+    { "id": 5, "name": "Paint Coating - Unit D5", "priority": "low", "deadline": "2026-04-09T10:00:00", "skill": "Painting", "status": "pending", "assignedTo": null, "progress": 0, "estimatedHours": 2 },
+    { "id": 6, "name": "Electrical Wiring - Panel 3", "priority": "medium", "deadline": "2026-04-08T11:00:00", "skill": "Electrical", "status": "in-progress", "assignedTo": 4, "progress": 35, "estimatedHours": 4 },
+    { "id": 7, "name": "CNC Turning - Shaft B9", "priority": "high", "deadline": "2026-04-07T15:00:00", "skill": "CNC", "status": "delayed", "assignedTo": 1, "progress": 20, "estimatedHours": 6 },
+    { "id": 8, "name": "Assembly Line - Module E", "priority": "medium", "deadline": "2026-04-08T14:00:00", "skill": "Assembly", "status": "pending", "assignedTo": null, "progress": 0, "estimatedHours": 8 },
+    { "id": 9, "name": "Surface Treatment - Gear Pack", "priority": "low", "deadline": "2026-04-09T16:00:00", "skill": "Painting", "status": "completed", "assignedTo": 6, "progress": 100, "estimatedHours": 3 },
+    { "id": 10, "name": "Hydraulic Press - Component F", "priority": "high", "deadline": "2026-04-07T18:00:00", "skill": "Assembly", "status": "in-progress", "assignedTo": 7, "progress": 55, "estimatedHours": 5 },
+    { "id": 11, "name": "Quality Check - Final Assembly", "priority": "high", "deadline": "2026-04-08T10:00:00", "skill": "Quality", "status": "pending", "assignedTo": null, "progress": 0, "estimatedHours": 2 },
+    { "id": 12, "name": "Welding Repair - Joint K2", "priority": "medium", "deadline": "2026-04-08T13:00:00", "skill": "Welding", "status": "completed", "assignedTo": 2, "progress": 100, "estimatedHours": 2 },
+    { "id": 13, "name": "Laser Engraving - Labels", "priority": "low", "deadline": "2026-04-09T12:00:00", "skill": "Laser", "status": "pending", "assignedTo": null, "progress": 0, "estimatedHours": 1 },
+    { "id": 14, "name": "CNC Drilling - Plate G8", "priority": "medium", "deadline": "2026-04-08T15:00:00", "skill": "CNC", "status": "in-progress", "assignedTo": 8, "progress": 80, "estimatedHours": 3 },
+    { "id": 15, "name": "Electrical Testing - Motor Unit", "priority": "high", "deadline": "2026-04-07T17:00:00", "skill": "Electrical", "status": "delayed", "assignedTo": 4, "progress": 10, "estimatedHours": 4 },
+    { "id": 16, "name": "Packaging - Order #4521", "priority": "low", "deadline": "2026-04-09T09:00:00", "skill": "Assembly", "status": "completed", "assignedTo": 6, "progress": 100, "estimatedHours": 2 }
+  ]
+}

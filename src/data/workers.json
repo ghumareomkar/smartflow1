@@ -1,0 +1,12 @@
+{
+  "workers": [
+    { "id": 1, "name": "Alex Rivera", "avatar": "AR", "skills": ["CNC", "Assembly"], "availability": "busy", "shift": "morning", "points": 2850, "tasksCompleted": 47, "efficiency": 94 },
+    { "id": 2, "name": "Priya Sharma", "avatar": "PS", "skills": ["Welding", "Assembly"], "availability": "available", "shift": "morning", "points": 3200, "tasksCompleted": 52, "efficiency": 97 },
+    { "id": 3, "name": "Marcus Chen", "avatar": "MC", "skills": ["Quality", "Electrical"], "availability": "busy", "shift": "morning", "points": 2100, "tasksCompleted": 38, "efficiency": 82 },
+    { "id": 4, "name": "Sarah Johnson", "avatar": "SJ", "skills": ["Electrical", "Assembly"], "availability": "busy", "shift": "afternoon", "points": 2650, "tasksCompleted": 44, "efficiency": 91 },
+    { "id": 5, "name": "Kai Tanaka", "avatar": "KT", "skills": ["Laser", "CNC"], "availability": "busy", "shift": "morning", "points": 2950, "tasksCompleted": 49, "efficiency": 95 },
+    { "id": 6, "name": "Elena Volkov", "avatar": "EV", "skills": ["Painting", "Quality"], "availability": "available", "shift": "afternoon", "points": 1800, "tasksCompleted": 31, "efficiency": 78 },
+    { "id": 7, "name": "David Okafor", "avatar": "DO", "skills": ["Assembly", "Welding"], "availability": "busy", "shift": "morning", "points": 2400, "tasksCompleted": 41, "efficiency": 88 },
+    { "id": 8, "name": "Lisa Park", "avatar": "LP", "skills": ["CNC", "Laser"], "availability": "busy", "shift": "afternoon", "points": 3100, "tasksCompleted": 50, "efficiency": 96 }
+  ]
+}

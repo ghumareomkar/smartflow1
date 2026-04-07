@@ -1,0 +1,10 @@
+{
+  "machines": [
+    { "id": 1, "name": "CNC Mill Alpha", "type": "CNC", "status": "running", "utilization": 87, "assignedWorker": 1, "uptime": 98.2, "temperature": 42 },
+    { "id": 2, "name": "Welding Station B", "type": "Welding", "status": "idle", "utilization": 34, "assignedWorker": null, "uptime": 95.5, "temperature": 28 },
+    { "id": 3, "name": "Laser Cutter Pro", "type": "Laser", "status": "running", "utilization": 92, "assignedWorker": 5, "uptime": 99.1, "temperature": 55 },
+    { "id": 4, "name": "Paint Booth X1", "type": "Painting", "status": "maintenance", "utilization": 0, "assignedWorker": null, "uptime": 78.4, "temperature": 22 },
+    { "id": 5, "name": "Assembly Robot R2", "type": "Assembly", "status": "running", "utilization": 76, "assignedWorker": 7, "uptime": 96.8, "temperature": 38 },
+    { "id": 6, "name": "Quality Scanner QS-3", "type": "Quality", "status": "running", "utilization": 65, "assignedWorker": 3, "uptime": 97.3, "temperature": 30 }
+  ]
+}
